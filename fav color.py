@@ -1,6 +1,6 @@
 fav_color= input("What's your favorite color? ")
 print("On nice! I love the color ", fav_color)
 fav_color= input("What's your favorite movie? ")
-print("No way, I love that movie. My favorite movie is The Dark Knight", fav_color)
+print("No way, I love that movie. My favorite movie is The Dark Knight")
 fav_color=input("Well it was nice talking to you, have a good day . . . .")
 print("Thanks see yah")
